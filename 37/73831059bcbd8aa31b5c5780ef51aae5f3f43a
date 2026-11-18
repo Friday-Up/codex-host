@@ -1,0 +1,32 @@
+apps/wiki/content/docs/platform/http-events.zh.mdx
+  s_13e83116103111::t_33934e177c27fa 33-42,51
+apps/wiki/content/docs/platform/http-events.en.mdx
+  s_13e83116103111::t_33934e177c27fa 33-42,51
+packages/host-runtime/src/delegation-cli.ts
+  s_13e83116103111::t_2629fd5b1d7189 23-25,770
+  s_13e83116103111::t_c06c19e5820a8b 800
+packages/host-runtime/src/delegation-types.ts
+  s_13e83116103111::t_2629fd5b1d7189 29-33
+packages/host-runtime/test/external-clients.test.ts
+  s_13e83116103111::t_ffcc60f3290505 16,143-159,163-182
+  s_13e83116103111::t_f577244641834d 160-162
+  s_13e83116103111::t_968740939c8273 183-184
+packages/host-runtime/src/external-client-routes.ts
+  s_13e83116103111::t_8ecd2f712a005c 3-5,58-90,95,97
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.6",
+  "base_commit_sha": "3773831059bcbd8aa31b5c5780ef51aae5f3f43a",
+  "prompts": {},
+  "sessions": {
+    "s_13e83116103111": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "d838fb6f-7e07-4325-bfab-f027360cc537",
+        "model": "claude-sonnet-5-5"
+      },
+      "human_author": "Friday-Up <144813782+Friday-Up@users.noreply.github.com>"
+    }
+  }
+}
