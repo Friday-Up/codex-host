@@ -1,0 +1,37 @@
+apps/web-ui/packages/client/ui-chat/src/client/chat/ChatView.tsx
+  s_13e83116103111::t_d2555cbcdc565d 258-265,519-524,526
+apps/web-ui/packages/client/ui-chat/src/client/chat/SelectionActions.module.css
+  s_13e83116103111::t_d2555cbcdc565d 37-45
+apps/web-ui/packages/client/ui-chat/src/client/chat/SelectionCommentCard.module.css
+  s_13e83116103111::t_d2555cbcdc565d 1-92
+apps/web-ui/packages/client/ui-chat/src/client/locale.ts
+  s_13e83116103111::t_d2555cbcdc565d 77-79,302-304
+docs/product/standalone-web.md
+  s_13e83116103111::t_7704d6dd4896b6 484
+  s_13e83116103111::t_d2555cbcdc565d 482,488
+  s_13e83116103111::t_d4c0c7ed31323a 483
+apps/web-ui/packages/client/ui-chat/src/client/chat/SelectionCommentCard.tsx
+  s_13e83116103111::t_d2555cbcdc565d 1-65,71-101
+  s_13e83116103111::t_b6c82619c4118b 66-70
+apps/web-ui/packages/client/ui-chat/src/client/chat/SelectionActions.tsx
+  s_13e83116103111::t_49df38b1a44932 285-286,289
+  s_13e83116103111::t_dfaa076d9e8661 287-288
+  s_13e83116103111::t_d2555cbcdc565d 4-9,22-23,33,36-37,212-229,232,234,239,244,248-251,255-259,262,292,302-306,308,325,327-354,379-380,401-431
+  s_13e83116103111::t_49b320425d9d04 432
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.6",
+  "base_commit_sha": "3646f4deb39a34aebb94ec4fa1d7d9b43fa214c7",
+  "prompts": {},
+  "sessions": {
+    "s_13e83116103111": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "d838fb6f-7e07-4325-bfab-f027360cc537",
+        "model": "unknown"
+      },
+      "human_author": "Friday-Up <144813782+Friday-Up@users.noreply.github.com>"
+    }
+  }
+}
