@@ -1,0 +1,21 @@
+packages/host-runtime/src/external-client-routes.ts
+  s_13e83116103111::t_20f7cbe6dfc33b 76-81
+packages/host-runtime/test/external-clients.test.ts
+  s_13e83116103111::t_5d4721dfe1bd3f 169-176
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.6",
+  "base_commit_sha": "47253e3937f6873ff353736d82d9863abdbefe21",
+  "prompts": {},
+  "sessions": {
+    "s_13e83116103111": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "d838fb6f-7e07-4325-bfab-f027360cc537",
+        "model": "claude-sonnet-5-5"
+      },
+      "human_author": "Friday-Up <144813782+Friday-Up@users.noreply.github.com>"
+    }
+  }
+}
