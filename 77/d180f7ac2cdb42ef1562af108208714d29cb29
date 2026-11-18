@@ -1,0 +1,22 @@
+apps/web-ui/packages/client/ui-chat/src/client/chat/SelectionCommentCard.tsx
+  s_13e83116103111::t_f66b8062b66fd7 13-15,69-76
+apps/web-ui/packages/client/ui-chat/src/client/chat/SelectionActions.tsx
+  s_13e83116103111::t_f66b8062b66fd7 22,342
+  s_13e83116103111::t_99cd0a9f4057d5 181-182,184,187-190,201-206
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.6",
+  "base_commit_sha": "77d180f7ac2cdb42ef1562af108208714d29cb29",
+  "prompts": {},
+  "sessions": {
+    "s_13e83116103111": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "d838fb6f-7e07-4325-bfab-f027360cc537",
+        "model": "claude-sonnet-5-5"
+      },
+      "human_author": "Friday-Up <144813782+Friday-Up@users.noreply.github.com>"
+    }
+  }
+}
